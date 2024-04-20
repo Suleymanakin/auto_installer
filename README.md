@@ -1,4 +1,4 @@
-Otomatik Yazılım Paketi Yükleyici
+# Otomatik Yazılım Paketi Yükleyici
 
 Bu projemiz, kullanıcıların belirli yazılımları otomatik olarak yüklemesini sağlayan bir komut satırı aracıdır. Kullanıcılar, **Google Chrome, VLC Media Player, Adobe Acrobat Reader, WhatsApp ve WinRAR** gibi yaygın yazılımları tek bir komutla yükleyebilir.
 
