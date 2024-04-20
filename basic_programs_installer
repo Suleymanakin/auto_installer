@@ -11,27 +11,27 @@ def runBatchCode():
     cls
 
     echo Google Chrome Yükleniyor
-    echo install Google.Chrome
+    winget install Google.Chrome
     timeout /t 3 > nul
     cls
 
     echo VLC Media Player Yükleniyor
-    echo install VideoLAN.VLC
+    winget install VideoLAN.VLC
     timeout /t 3 > nul
     cls
 
     echo Adobe Acrober Reader Yükleniyor
-    echo install XPDP273C0XHQH2
+    winget install XPDP273C0XHQH2
     timeout /t 3 > nul
     cls
 
     echo Whatsapp Yükleniyor
-    echo install WhatsApp.WhatsApp
+    winget install WhatsApp.WhatsApp
     timeout /t 3  > nul
     cls
 
     echo Winrar Yükleniyor
-    echo install RARLab.WinRAR
+    winget install RARLab.WinRAR
     timeout /t 3 > nul
     cls
 
